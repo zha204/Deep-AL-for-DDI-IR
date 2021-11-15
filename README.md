@@ -42,5 +42,5 @@ Defined how to train the model use the parameters including iteration, epoche, b
     - Output: the evaluation results such as precision, recall values, etc. 
 3. All the codes are written in python
 
-
+<a href="https://zenodo.org/badge/latestdoi/428293638"><img src="https://zenodo.org/badge/428293638.svg" alt="DOI"></a>
 

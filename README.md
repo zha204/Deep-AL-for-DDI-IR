@@ -1,4 +1,8 @@
 # Deep-AL-for-DDI-IR
+## About The Project
+Drug-drug interaction (DDI) information retrieval (IR) is an important natural language process (NLP) task for  DDI text mining from the PubMed literature. In this paper, for the first time, active learning (AL) is studied in DDI IR analysis. DDI IR analysis from PubMed abstracts faces the challenges of relatively small positive DDI samples and overwhelmingly large negative samples. New sampling schemes, including random sampling and positive sampling, are purposely designed to address these challenges. They reduce annotation labor, and improve the efficiency of AL analysis. The theoretical consistency of random sampling and positive sampling is also shown in the paper. Practically, PubMed abstracts are divided into two pools. Screened pool contains all abstracts that pass the DDI keywords query in PubMed, while unscreened pool includes all the other abstracts. At a prespecified recall rate of 0.95, DDI IR analysis performance is evaluated and compared in precision. In screened pool IR analysis using supporting vector machine (SVM), similarity sampling plus uncertainty sampling improve the precision of AL over uncertainty sampling, from 0.89 to 0.92 respectively. In the unscreened pool IR analysis, the integrated random sampling, positive sampling, and similarity sampling improve the IR analysis performance over uncertainty sampling along, from 0.72 to 0.81 respectively. When we change the SVM to a deep learning method, all sampling schemes consistently benefit DDI AL analysis in both screened pool and unscreened pool. Deep learning also has significant improvement of precision over SVM, 0.96 vs 0.91 in screened pool, and 0.90 vs 0.81 in the unscreened pool, respectively.
+
+
 
 ## Data
 

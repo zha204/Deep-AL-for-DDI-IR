@@ -1,4 +1,5 @@
-<h1 align="center">Deep-AL-for-DDI-IR</h1>
+<h1 align="center">Multiple sampling schemes and deep learning improve active learning performance in drug-drug interaction information retrieval analysis from the literature
+</h1>
 
 # About The Project
     

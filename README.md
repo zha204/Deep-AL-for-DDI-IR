@@ -10,12 +10,12 @@ Drug-drug interaction (DDI) information retrieval (IR) is an important natural l
 ## Data
 
 ### Screened sample pool 
-1. **Negative Sample ID**: 933 Labeled Positive Abstracts
-2. **Positive Sample ID**: 799 Labeled Negative Abstracts
-3. **Screened Sample ID**: 3,169 Unlabeled Abstracts
+1. **Negative Sample ID**: PMIDs of 933 Labeled Positive Abstracts
+2. **Positive Sample ID**: PMIDs of 799 Labeled Negative Abstracts
+3. **Screened Sample ID**: PMIDs of 3,169 Unlabeled Abstracts
 
 ### Unscreened sample pool 
-**Unscreened Sample ID**: 9,999 Unlabeled Abstracts
+**Unscreened Sample ID**: PMIDs of 9,999 Unlabeled Abstracts
 
 
 ## Code
